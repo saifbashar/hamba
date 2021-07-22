@@ -1,0 +1,16 @@
+/* Google fonts */
+@import url('https://fonts.googleapis.com/css2?family=Hind+Siliguri&display=swap');
+@import url('https://fonts.maateen.me/solaiman-lipi/font.css');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.maateen.me/mukti/font.css');
+
+body {
+  font-family: 'SolaimanLipi', 'DM Sans', sans-serif !important;
+}
+
+.font-english {
+  font-family: 'DM Sans', sans-serif !important;
+}
+.mukti {
+  font-family: 'Mukti', sans-serif;
+}
